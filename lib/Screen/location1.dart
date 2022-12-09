@@ -11,7 +11,6 @@ import '../Model/directionsRepo.dart';
 import '../Screen/navDart.dart';
 import 'package:http/http.dart' as http;
 
-const apiKey = "AIzaSyApfxhoDfkVBR7qvP15WCPAn6-kO0xSPGE";
 
 class DashboardScreen extends StatefulWidget {
   //const DashboardScreen({Key? key}) : super(key: key);
